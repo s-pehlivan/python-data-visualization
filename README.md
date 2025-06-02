@@ -64,6 +64,6 @@ Learn to interact with APIs and handle JSON data.
 
 ## Credits
 Book: [Python Crash Course, 3rd Edition](https://nostarch.com/python-crash-course-3rd-edition) by Eric Matthes
-Author’s GitHub:[ehmatthes](https://github.com/ehmatthes)
+Author’s GitHub: [ehmatthes](https://github.com/ehmatthes)
 
 > This repository is for educational purposes only and reflects my personal work while studying "Python Crash Course" by Eric Matthes. All rights to the book content belong to the author and publisher.
