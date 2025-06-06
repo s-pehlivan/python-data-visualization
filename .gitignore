@@ -24,3 +24,5 @@ env/
 # Plot output (optional)
 *.png
 *.jpg
+
+*.html
