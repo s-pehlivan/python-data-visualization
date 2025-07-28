@@ -18,13 +18,15 @@ Each folder represents a small project or concept from the chapters:
 - Chapter15
     - mpl_squares.py
     - random_walk.py
+    - dice_visuals.py
 - Chapter 16
-    - sitka_weather.py
-    - death_valley_weather.py
+    - sitka_high_lows.py
+    - death_valley_highs_lows.py
+    - eq_explore_data.py
+    - world_fires.py
 - Chapter 17
-    - hacker_news_api.py
-
-> Note: More folders/files will be added as I continue progressing through the book.
+    - python_repos_visual.py
+    - hn_submissions.py
 
 ## Projects Covered
 
